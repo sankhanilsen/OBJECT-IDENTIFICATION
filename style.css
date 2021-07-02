@@ -1,0 +1,30 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+color: #00ff4c;
+background-color: black;
+}
+
+#status, #number_of_objects
+{
+font-size: 18px;
+color: #00ff4c;
+background-color: black;
+}
+body
+{
+    color: black;
+    background-size: cover; 
+    background-position: center;
+}
+canvas{
+    box-shadow: 10px 10px 10px rgb(1, 255, 77);
+    border-radius:10px;
+    margin-top: 30px;
+}
+
+
+
